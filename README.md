@@ -11,5 +11,11 @@
 5. **User-Friendly Interface**
   - The app's intuitive and user-friendly design ensures that users of all ages and backgrounds can navigate and access critical information effortlessly. 
 6. **Privacy and Data Security**
-  - The app prioritizes user privacy and data security, adhering to strict privacy standards and regulations
+  - The app prioritizes user privacy and data security, adhering to strict privacy standards and regulations       
+
+ ### Download the ZIP File:
+ Explore the full source code and resources by downloading the ZIP file from the repository. Get started with the Flutter COVID-19 Tracker App today!
+
+ ### Show Your Support: 
+ If you find this app helpful, please consider giving it a star on GitHub. Your support helps us continue to improve and maintain this valuable resource for the community. ⭐️
 
