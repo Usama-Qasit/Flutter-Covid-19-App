@@ -9,7 +9,7 @@
 4. **Data Visualization**
   - Utilizing charts and graphs, the app presents COVID-19 data in a visually engaging manner, making it easier for users to grasp trends and patterns
 5. **User-Friendly Interface**
-  - The app's intuitive and user-friendly design ensures that users of all ages and backgrounds can navigate and access critical information effortlessly.  \
+  - The app's intuitive and user-friendly design ensures that users of all ages and backgrounds can navigate and access critical information effortlessly. 
 6. **Privacy and Data Security**
   - The app prioritizes user privacy and data security, adhering to strict privacy standards and regulations
 
