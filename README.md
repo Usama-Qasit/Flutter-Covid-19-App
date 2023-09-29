@@ -1,5 +1,8 @@
 ## FLUTTER COVID-19 TRACKER APP
 
+  ### Show Your Support: 
+ If you find this app helpful, please consider giving it a star on GitHub. Your support helps us continue to improve and maintain this valuable resource for the community. ⭐
+ 
 1. **Real-time Data**
   - The app fetches the latest COVID-19 data from trusted sources, ensuring that users have access to up-to-date information on cases, deaths, recoveries, and more.
 2. **Global and Local Statistics**
